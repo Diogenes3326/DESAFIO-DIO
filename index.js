@@ -1,3 +1,7 @@
-let nome = "Diógenes"
+let nickname = "Sub  Zero Mestre do Gelo "
+
+let experienciaXpDeUmHeroi = 
+
  
-console.log ("oi felipão")
+console.log ("Bem vindo" + nickname)
+
